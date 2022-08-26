@@ -6,6 +6,7 @@ Template to request amazon lambda
 
 ## Tools
 - Unity
+- AWS
 
 ## Author
 
